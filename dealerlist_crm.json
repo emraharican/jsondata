@@ -1,0 +1,1920 @@
+{
+    "code": "200",
+    "status": "Success",
+    "result": [
+        {
+            "vtable_row_id": "42302408",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 1,
+                "cf_5869": "İstanbul Avrupa",
+                "cf_5870": "Esenler",
+                "cf_5871": "Aldatmaz"
+            },
+            "updated_at": "2023-04-14 15:24:11",
+            "created_at": "2023-04-14 15:24:11"
+        },
+        {
+            "vtable_row_id": "42302937",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 2,
+                "cf_5869": "İstanbul Avrupa",
+                "cf_5870": "Bahçelievler",
+                "cf_5871": "Park"
+            },
+            "updated_at": "2023-04-14 16:02:39",
+            "created_at": "2023-04-14 16:02:39"
+        },
+        {
+            "vtable_row_id": "42302966",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 3,
+                "cf_5869": "İstanbul Avrupa",
+                "cf_5870": "Sarıyer",
+                "cf_5871": "Aceavto"
+            },
+            "updated_at": "2023-04-14 16:03:41",
+            "created_at": "2023-04-14 16:03:02"
+        },
+        {
+            "vtable_row_id": "42303065",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 4,
+                "cf_5869": "İstanbul Anadolu",
+                "cf_5870": "Ümraniye",
+                "cf_5871": "Atmo"
+            },
+            "updated_at": "2023-04-14 16:04:30",
+            "created_at": "2023-04-14 16:04:30"
+        },
+        {
+            "vtable_row_id": "42303066",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 5,
+                "cf_5869": "İstanbul Anadolu",
+                "cf_5870": "Sultanbeyli",
+                "cf_5871": "Kıyı"
+            },
+            "updated_at": "2023-04-14 16:04:55",
+            "created_at": "2023-04-14 16:04:55"
+        },
+        {
+            "vtable_row_id": "42303099",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 6,
+                "cf_5869": "İstanbul Anadolu",
+                "cf_5870": "Çekmeköy",
+                "cf_5871": "Yüzbaşıoğlu"
+            },
+            "updated_at": "2023-04-14 16:05:22",
+            "created_at": "2023-04-14 16:05:22"
+        },
+        {
+            "vtable_row_id": "42303162",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 7,
+                "cf_5869": "Ankara",
+                "cf_5870": "Yenimahalle",
+                "cf_5871": "Tan Oto Yenimahalle"
+            },
+            "updated_at": "2023-04-14 16:06:04",
+            "created_at": "2023-04-14 16:06:04"
+        },
+        {
+            "vtable_row_id": "42303163",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 8,
+                "cf_5869": "Ankara",
+                "cf_5870": "Akyurt",
+                "cf_5871": "Tan Oto Akyurt"
+            },
+            "updated_at": "2023-04-14 16:06:42",
+            "created_at": "2023-04-14 16:06:42"
+        },
+        {
+            "vtable_row_id": "42303164",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 11,
+                "cf_5869": "Adana",
+                "cf_5870": "",
+                "cf_5871": "Tekbaş"
+            },
+            "updated_at": "2023-04-14 16:08:13",
+            "created_at": "2023-04-14 16:07:27"
+        },
+        {
+            "vtable_row_id": "42303202",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 9,
+                "cf_5869": "İzmir",
+                "cf_5870": "Bornova",
+                "cf_5871": "HMT İzmir"
+            },
+            "updated_at": "2023-04-14 16:08:51",
+            "created_at": "2023-04-14 16:08:51"
+        },
+        {
+            "vtable_row_id": "42303203",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 10,
+                "cf_5869": "İzmir",
+                "cf_5870": "Gaziemir",
+                "cf_5871": "ERC"
+            },
+            "updated_at": "2023-04-14 16:09:12",
+            "created_at": "2023-04-14 16:09:12"
+        },
+        {
+            "vtable_row_id": "42303279",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 12,
+                "cf_5869": "Aydın",
+                "cf_5870": "",
+                "cf_5871": "HMT Aydın"
+            },
+            "updated_at": "2023-04-14 16:10:37",
+            "created_at": "2023-04-14 16:10:37"
+        },
+        {
+            "vtable_row_id": "42303281",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 13,
+                "cf_5869": "Balıkesir",
+                "cf_5870": "",
+                "cf_5871": "Akkaş"
+            },
+            "updated_at": "2023-04-14 16:11:13",
+            "created_at": "2023-04-14 16:11:13"
+        },
+        {
+            "vtable_row_id": "42303282",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 14,
+                "cf_5869": "Bursa",
+                "cf_5870": "",
+                "cf_5871": "Gönye"
+            },
+            "updated_at": "2023-04-14 16:11:43",
+            "created_at": "2023-04-14 16:11:43"
+        },
+        {
+            "vtable_row_id": "42303284",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 15,
+                "cf_5869": "Denizli",
+                "cf_5870": "",
+                "cf_5871": "Özpam"
+            },
+            "updated_at": "2023-04-14 16:12:12",
+            "created_at": "2023-04-14 16:12:12"
+        },
+        {
+            "vtable_row_id": "42303314",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 16,
+                "cf_5869": "Diyarbakır",
+                "cf_5870": "",
+                "cf_5871": "Odabaşı"
+            },
+            "updated_at": "2023-04-14 16:12:34",
+            "created_at": "2023-04-14 16:12:34"
+        },
+        {
+            "vtable_row_id": "42303315",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 17,
+                "cf_5869": "Erzurum",
+                "cf_5870": "",
+                "cf_5871": "Erdemir"
+            },
+            "updated_at": "2023-04-14 16:13:04",
+            "created_at": "2023-04-14 16:13:04"
+        },
+        {
+            "vtable_row_id": "42303368",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 18,
+                "cf_5869": "Kayseri",
+                "cf_5870": "",
+                "cf_5871": "İncar"
+            },
+            "updated_at": "2023-04-14 16:14:49",
+            "created_at": "2023-04-14 16:14:49"
+        },
+        {
+            "vtable_row_id": "42303384",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 19,
+                "cf_5869": "Konya",
+                "cf_5870": "",
+                "cf_5871": "Atsanlar"
+            },
+            "updated_at": "2023-04-14 16:15:20",
+            "created_at": "2023-04-14 16:15:20"
+        },
+        {
+            "vtable_row_id": "42303385",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 20,
+                "cf_5869": "Mersin",
+                "cf_5870": "",
+                "cf_5871": "Gürsoy"
+            },
+            "updated_at": "2023-04-14 16:15:48",
+            "created_at": "2023-04-14 16:15:48"
+        },
+        {
+            "vtable_row_id": "42303406",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 21,
+                "cf_5869": "Muğla",
+                "cf_5870": "Bodrum",
+                "cf_5871": "Kasapoğlu"
+            },
+            "updated_at": "2023-04-14 16:16:22",
+            "created_at": "2023-04-14 16:16:22"
+        },
+        {
+            "vtable_row_id": "42303433",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 22,
+                "cf_5869": "Sakarya",
+                "cf_5870": "",
+                "cf_5871": "Ernaz"
+            },
+            "updated_at": "2023-04-14 16:17:42",
+            "created_at": "2023-04-14 16:17:42"
+        },
+        {
+            "vtable_row_id": "42303434",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 23,
+                "cf_5869": "Samsun",
+                "cf_5870": "",
+                "cf_5871": "BLF"
+            },
+            "updated_at": "2023-04-14 16:17:59",
+            "created_at": "2023-04-14 16:17:59"
+        },
+        {
+            "vtable_row_id": "42303437",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 24,
+                "cf_5869": "Tekirdağ",
+                "cf_5870": "",
+                "cf_5871": "Köşkdere"
+            },
+            "updated_at": "2023-04-14 16:18:21",
+            "created_at": "2023-04-14 16:18:21"
+        },
+        {
+            "vtable_row_id": "42303439",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": 25,
+                "cf_5869": "Trabzon",
+                "cf_5870": "",
+                "cf_5871": "Adnan"
+            },
+            "updated_at": "2023-04-14 16:18:38",
+            "created_at": "2023-04-14 16:18:38"
+        },
+        {
+            "vtable_row_id": "42666512",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": 368,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": "26",
+                "cf_5869": "",
+                "cf_5870": "",
+                "cf_5871": "Ant Oto"
+            },
+            "updated_at": "2023-04-26 07:33:13",
+            "created_at": "2023-04-26 07:33:13"
+        },
+        {
+            "vtable_row_id": "42666516",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": 368,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": "27",
+                "cf_5869": "",
+                "cf_5870": "",
+                "cf_5871": "Kaya"
+            },
+            "updated_at": "2023-04-26 07:33:31",
+            "created_at": "2023-04-26 07:33:31"
+        },
+        {
+            "vtable_row_id": "42666518",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": 368,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": "28",
+                "cf_5869": "",
+                "cf_5870": "",
+                "cf_5871": "BZL"
+            },
+            "updated_at": "2023-04-26 07:33:42",
+            "created_at": "2023-04-26 07:33:42"
+        },
+        {
+            "vtable_row_id": "42666520",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": 368,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": "29",
+                "cf_5869": "",
+                "cf_5870": "",
+                "cf_5871": "Bostancıoğlu"
+            },
+            "updated_at": "2023-04-26 07:33:51",
+            "created_at": "2023-04-26 07:33:51"
+        },
+        {
+            "vtable_row_id": "42666521",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": 368,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": {
+                "cf_5868": "30",
+                "cf_5869": "",
+                "cf_5870": "",
+                "cf_5871": "Mezcar"
+            },
+            "updated_at": "2023-04-26 07:34:03",
+            "created_at": "2023-04-26 07:34:03"
+        },
+        {
+            "vtable_row_id": "42675097",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-26 13:05:16",
+            "created_at": "2023-04-26 13:05:16"
+        },
+        {
+            "vtable_row_id": "42675190",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-26 13:06:44",
+            "created_at": "2023-04-26 13:06:44"
+        },
+        {
+            "vtable_row_id": "42675752",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-26 13:32:14",
+            "created_at": "2023-04-26 13:32:14"
+        },
+        {
+            "vtable_row_id": "42675760",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-26 13:34:49",
+            "created_at": "2023-04-26 13:34:49"
+        },
+        {
+            "vtable_row_id": "42675776",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-26 13:35:38",
+            "created_at": "2023-04-26 13:35:38"
+        },
+        {
+            "vtable_row_id": "42734242",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-27 13:42:56",
+            "created_at": "2023-04-27 13:42:56"
+        },
+        {
+            "vtable_row_id": "42735154",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-27 14:20:12",
+            "created_at": "2023-04-27 14:20:12"
+        },
+        {
+            "vtable_row_id": "42738565",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-27 16:26:40",
+            "created_at": "2023-04-27 16:26:40"
+        },
+        {
+            "vtable_row_id": "42763812",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-28 07:53:17",
+            "created_at": "2023-04-28 07:53:17"
+        },
+        {
+            "vtable_row_id": "42769872",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-28 12:36:12",
+            "created_at": "2023-04-28 12:36:12"
+        },
+        {
+            "vtable_row_id": "42771884",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-28 13:43:07",
+            "created_at": "2023-04-28 13:43:07"
+        },
+        {
+            "vtable_row_id": "42775157",
+            "vtable": {
+                "vtable_id": "368",
+                "name": "dealer_list",
+                "title": "Dealer List",
+                "primaryKeyCfs": [],
+                "is_read_only": false,
+                "is_menu_item": false,
+                "is_filterable": null,
+                "created_at": "2023-04-14 08:29:22",
+                "channel": {
+                    "channel_id": "329",
+                    "channel_name": "chery",
+                    "channel_slug": "chery",
+                    "created_at": "2022-12-09 12:47:48",
+                    "lang": "en",
+                    "is_builtin": true,
+                    "business_type": 2,
+                    "primary_key_cfs": null,
+                    "segment_fields": null,
+                    "csm_customer_fields_map": []
+                }
+            },
+            "relation_kind_id": null,
+            "related_id": null,
+            "channel": {
+                "channel_id": "329",
+                "channel_name": "chery",
+                "channel_slug": "chery",
+                "created_at": "2022-12-09 12:47:48",
+                "lang": "en",
+                "is_builtin": true,
+                "business_type": 2,
+                "primary_key_cfs": null,
+                "segment_fields": null,
+                "csm_customer_fields_map": []
+            },
+            "custom_data": null,
+            "updated_at": "2023-04-28 15:20:17",
+            "created_at": "2023-04-28 15:20:17"
+        }
+    ]
+}
